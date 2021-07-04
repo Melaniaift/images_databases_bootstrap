@@ -1,4 +1,14 @@
 # CodeIgniter 4 Framework
+You can edit, delete, view and upload a new record from a database.
+![image](https://user-images.githubusercontent.com/76125731/124397451-92fdeb00-dd18-11eb-80ac-e0276ca2cce0.png)
+![image](https://user-images.githubusercontent.com/76125731/124397455-998c6280-dd18-11eb-8541-cd3c39b03699.png)
+![image](https://user-images.githubusercontent.com/76125731/124397462-a14c0700-dd18-11eb-935e-cbeee53aa8a9.png)
+![image](https://user-images.githubusercontent.com/76125731/124397470-a7da7e80-dd18-11eb-9ffe-cfa76a2b3cbe.png)
+![image](https://user-images.githubusercontent.com/76125731/124397485-b5900400-dd18-11eb-81dc-e29b55552aca.png)
+![image](https://user-images.githubusercontent.com/76125731/124397504-cccef180-dd18-11eb-9ffe-ef9eccce9d15.png)
+![image](https://user-images.githubusercontent.com/76125731/124397507-d0fb0f00-dd18-11eb-9590-d56731a61aab.png)
+![image](https://user-images.githubusercontent.com/76125731/124397514-da847700-dd18-11eb-89d5-b50ae8a9b7ec.png)
+
 
 ## What is CodeIgniter?
 
