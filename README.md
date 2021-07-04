@@ -1,5 +1,5 @@
 # CodeIgniter 4 Framework
-You can edit, delete, view and upload a new record from a database.
+You can edit, delete, view and upload a new record from a database named images1 with a table named images1
 ![image](https://user-images.githubusercontent.com/76125731/124397451-92fdeb00-dd18-11eb-80ac-e0276ca2cce0.png)
 ![image](https://user-images.githubusercontent.com/76125731/124397455-998c6280-dd18-11eb-8541-cd3c39b03699.png)
 ![image](https://user-images.githubusercontent.com/76125731/124397462-a14c0700-dd18-11eb-935e-cbeee53aa8a9.png)
